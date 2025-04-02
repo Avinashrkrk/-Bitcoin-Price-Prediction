@@ -40,6 +40,14 @@ This project utilizes a Long Short-Term Memory (LSTM) neural network to predict 
      ```bash
        streamlit run app.py
    - Access the app in your browser at `http://localhost:8501`
+
+![Dashboard](images/img1.png)
+
+# Model Performance Metrics
+![Model Performance](images/img3.png)
+
+# Price Predictions 
+![Detailed Price Predictions](images/img2.png)
   
 ## 📊 Results & Insights
 * The LSTM model successfully learns Bitcoin price trends and predicts future values.
