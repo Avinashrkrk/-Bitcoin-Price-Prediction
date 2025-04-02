@@ -40,7 +40,8 @@ This project utilizes a Long Short-Term Memory (LSTM) neural network to predict 
      ```bash
        streamlit run app.py
    - Access the app in your browser at `http://localhost:8501`
-
+     
+# Dashboard
 ![Dashboard](images/img1.png)
 
 # Model Performance Metrics
