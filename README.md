@@ -23,6 +23,9 @@ This project utilizes a Long Short-Term Memory (LSTM) neural network to predict 
 * **Libraries** : PyTorch, NumPy, Pandas, Matplotlib, Scikit-learn, Streamlit
 * **Deep Learning Framework** : LSTM Neural Network
 
+## ➡️ Flow Diagram
+![Flow Diagram](images/flow-chart.jpg)
+
 ## 🚀 How to Run the Project
 1. *Clone the Repository*
    ```bash
